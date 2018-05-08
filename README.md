@@ -67,6 +67,8 @@ Test & Measurement| Description
 [Keysight](https://www.apple.com)				| test B
 [Tektronics](https://www.apple.com)				| test B
 [Fluke](https://www.apple.com)				| test B
+[Keithley](https://www.apple.com)				| test B
+[SRS](https://www.apple.com)				| test B
 
 Objectives| Description
 ---- | ----
@@ -74,6 +76,13 @@ Objectives| Description
 [Zeiss](https://www.apple.com)				| test B
 [Leica](https://www.apple.com)				| test B
 [SpecialOptics](https://www.apple.com)				| test B
+
+Cameras| Description
+---- | ----
+[Hamamatsu](https://www.apple.com)				| test B
+[Andor](https://www.apple.com)				| test B
+[PointGrey](https://www.apple.com)				| test B
+
 
 
 # Blogs
