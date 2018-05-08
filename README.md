@@ -14,15 +14,29 @@ Software| Description
 [EmbryoMiner](https://www.apple.com)				| test B
 [MotionTracker](https://www.apple.com)				| test B
 
+# Vendors
 
-Vendors| Description
----- | ----
-[National Instruments](https://www.google.com) 			| test A
 [Thorlabs](https://www.apple.com)				| test B
 [Newport](https://www.apple.com)				| test B
+
+Data acquisition| Description
+---- | ----
+[National Instruments](https://www.google.com) 			| test A
+
+Lasers| Description
+---- | ----
 [Coherent](https://www.apple.com)				| test B
+
+Galvanometric mirrors| Description
+---- | ----
 [Cambridge Technology](https://www.apple.com)				| test B
+
+Motorized stages| Description
+---- | ----
 [Physik Instrumente](https://www.apple.com)				| test B
+
+
+
 
 
 Blogs| Description
