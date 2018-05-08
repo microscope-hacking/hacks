@@ -21,6 +21,13 @@ Optics & optomechanics| Description
 ---- | ----
 [Thorlabs](https://www.apple.com)				| test B
 [Newport](https://www.apple.com)				| test B
+[Meadowlark](https://www.meadowlark.com/)				| test B
+[Semrock](https://www.apple.com)				| test B
+
+Electro-optics| Description
+---- | ----
+[Conoptics](https://www.apple.com)				| test B
+[QIoptik](https://www.apple.com)				| test B
 
 Data acquisition| Description
 ---- | ----
@@ -28,6 +35,8 @@ Data acquisition| Description
 
 Lasers| Description
 ---- | ----
+[Coherent](https://www.apple.com)				| test B
+[SpectraPhysics](https://www.apple.com)				| test B
 [Coherent](https://www.apple.com)				| test B
 
 Galvanometric mirrors| Description
@@ -40,7 +49,8 @@ Motorized stages| Description
 
 Mechanical parts| Description
 ---- | ----
-[Physik Instrumente](https://www.apple.com)				| test B
+[McMaster](https://www.apple.com)				| test B
+[Misumi](https://www.apple.com)				| test B
 
 Electronics| Description
 ---- | ----
@@ -57,6 +67,13 @@ Test & Measurement| Description
 [Keysight](https://www.apple.com)				| test B
 [Tektronics](https://www.apple.com)				| test B
 [Fluke](https://www.apple.com)				| test B
+
+Objectives| Description
+---- | ----
+[Olympus](https://www.apple.com)				| test B
+[Zeiss](https://www.apple.com)				| test B
+[Leica](https://www.apple.com)				| test B
+[SpecialOptics](https://www.apple.com)				| test B
 
 
 # Blogs
