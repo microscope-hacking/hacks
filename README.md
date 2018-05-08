@@ -2,6 +2,7 @@ Hardware| Description
 ---- | ----
 [A](https://www.google.com) 			| test A
 
+# Software
 
 Software| Description
 ---- | ----
@@ -16,6 +17,8 @@ Software| Description
 
 # Vendors
 
+Optics & optomechanics| Description
+---- | ----
 [Thorlabs](https://www.apple.com)				| test B
 [Newport](https://www.apple.com)				| test B
 
@@ -37,7 +40,7 @@ Motorized stages| Description
 
 
 
-
+# Blogs
 
 Blogs| Description
 ---- | ----
