@@ -1,7 +1,6 @@
 Hardware| Description
 ---- | ----
 [A](https://www.google.com) 			| test A
-[B](https://www.apple.com)				| test B
 
 
 Software| Description
@@ -12,13 +11,19 @@ Software| Description
 [ClearControl](https://www.google.com) 			| test A
 [CellProfiler](https://www.apple.com)				| test B
 [Care](https://www.apple.com)				| test B
-
+[EmbryoMiner](https://www.apple.com)				| test B
+[MotionTracker](https://www.apple.com)				| test B
 
 
 Vendors| Description
 ---- | ----
-[A](https://www.google.com) 			| test A
-[B](https://www.apple.com)				| test B
+[National Instruments](https://www.google.com) 			| test A
+[Thorlabs](https://www.apple.com)				| test B
+[Newport](https://www.apple.com)				| test B
+[Coherent](https://www.apple.com)				| test B
+[Cambridge Technology](https://www.apple.com)				| test B
+[Physik Instrumente](https://www.apple.com)				| test B
+
 
 Blogs| Description
 ---- | ----
