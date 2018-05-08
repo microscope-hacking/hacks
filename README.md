@@ -6,8 +6,14 @@ Hardware| Description
 
 Software| Description
 ---- | ----
-[A](https://www.google.com) 			| test A
-[B](https://www.apple.com)				| test B
+[ImageJ](https://www.apple.com)				| test B
+[Fiji](https://www.apple.com)				| test B
+[ClearVolume](https://www.apple.com)				| test B
+[ClearControl](https://www.google.com) 			| test A
+[CellProfiler](https://www.apple.com)				| test B
+[Care](https://www.apple.com)				| test B
+
+
 
 Vendors| Description
 ---- | ----
@@ -16,4 +22,5 @@ Vendors| Description
 
 Blogs| Description
 ---- | ----
-[A](https://www.google.com) 			| test A
+[Labrigger](http://labrigger.com/blog/) 			| test A
+
