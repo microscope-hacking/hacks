@@ -48,6 +48,15 @@ Electronics| Description
 [Mouser](https://www.apple.com)				| test B
 [RS](https://www.apple.com)				| test B
 [Conrad](https://www.apple.com)				| test B
+[Minicircuits](https://www.apple.com)				| test B
+[OSHpark](https://www.apple.com)				| test B
+[KiCad](https://www.apple.com)				| test B
+
+Test & Measurement| Description
+---- | ----
+[Keysight](https://www.apple.com)				| test B
+[Tektronics](https://www.apple.com)				| test B
+[Fluke](https://www.apple.com)				| test B
 
 
 # Blogs
