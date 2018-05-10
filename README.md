@@ -1,8 +1,3 @@
-# Hardware
-
-FPGA| Description
----- | ----
-[Terasic](http://www.terasic.com.tw/) 			| Dev boards
 
 # Software
 
@@ -37,12 +32,18 @@ Electro-optics| Description
 Data acquisition| Description
 ---- | ----
 [National Instruments](http://www.ni.com/) 			|
+[Alazartech](http://www.alazartech.com/) |
+[Terasic](http://www.terasic.com.tw/) 			| FPGA Dev boards
+[Gage](http://www.gage-applied.com/) |
 
 Lasers| Description
 ---- | ----
 [Coherent](https://www.coherent.com/)				|
 [SpectraPhysics](https://www.spectra-physics.com/)				|
 [MSquared](http://www.m2lasers.com/)				|
+[Struck](http://www.struck.de/) |
+[Nutaq](https://www.nutaq.com/) |
+[SpectrumInstrumentation](https://spectrum-instrumentation.com) |
 
 Galvanometric mirrors| Description
 ---- | ----
