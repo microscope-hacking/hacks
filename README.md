@@ -20,8 +20,9 @@ Optics & optomechanics| Description
 [Newport](http://www.newport.com/)				|
 [Edmund](https://www.edmundoptics.com/) |
 [Eksma](http://eksmaoptics.com/) |
-[Meadowlark](https://www.meadowlark.com/)				| High-end polatizers
+[Meadowlark](https://www.meadowlark.com/)				| High-end polarizers
 [Semrock](https://www.semrock.com/)				| High-end filters
+[OZ Optics](https://www.ozoptics.com/) | Fiber optics
 
 Electro-optics| Description
 ---- | ----
@@ -35,15 +36,26 @@ Data acquisition| Description
 [Alazartech](http://www.alazartech.com/) |
 [Terasic](http://www.terasic.com.tw/) 			| FPGA Dev boards
 [Gage](http://www.gage-applied.com/) |
+[Struck](http://www.struck.de/) |
+[Nutaq](https://www.nutaq.com/) |
+[Spectrum Instrumentation](https://spectrum-instrumentation.com) |
 
 Lasers| Description
 ---- | ----
 [Coherent](https://www.coherent.com/)				|
 [SpectraPhysics](https://www.spectra-physics.com/)				|
 [MSquared](http://www.m2lasers.com/)				|
-[Struck](http://www.struck.de/) |
-[Nutaq](https://www.nutaq.com/) |
-[SpectrumInstrumentation](https://spectrum-instrumentation.com) |
+[Menlo Systems](http://www.menlosystems.com/) |
+[Toptica](https://www.toptica.com/) |
+[Amplitude Systemes](http://www.amplitude-systemes.com/) |
+[Ekspla](https://ekspla.com/) |
+[NKT](https://www.nktphotonics.com/lasers-fibers/) |
+[IPG](https://www.ipgphotonics.com/) |
+[Light Conversion](http://lightcon.com/) |
+[Montfort](https://www.montfortlaser.com/) |
+[Spark](https://spark-lasers.com/) |
+[Chromacity](http://www.chromacitylasers.com/) |
+
 
 Galvanometric mirrors| Description
 ---- | ----
