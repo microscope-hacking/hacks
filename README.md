@@ -45,7 +45,7 @@ Electro-optics| Description
 [QIoptik](http://www.qioptiq.com/) | Light modulators
 [4DD](http://www.forthdd.com/) | SLM
 
-Data acquisition| Description
+Acquisition cards| Description
 ---- | ----
 [National Instruments](http://www.ni.com/) |
 [Alazartech](http://www.alazartech.com/) |
@@ -75,6 +75,8 @@ Lasers| Description
 Galvanometric mirrors| Description
 ---- | ----
 [Cambridge Technology](http://www.cambridgetechnology.com/)	|
+[ScannerMax](https://www.scannermax.com/) |
+[ScanLab](http://www.scanlab.de/en) |
 
 Motorized stages| Description
 ---- | ----
@@ -126,12 +128,21 @@ Microscopes| Description
 ---- | ----
 [OpenSPIM](http://openspim.org/Welcome_to_the_OpenSPIM_Wiki) |
 [Scientifica](http://www.scientifica.uk.com/) |
+[MiniScope](http://miniscope.org/) |
+
+
+Lab supplies| Description
+---- | ----
+[ThermoFisher](thermofisher.com) |
+[Gattaquant](http://www.gattaquant.com/) |
 
 
 To be classified| Description
 ---- | ----
 [Spike Gadgets](http://www.spikegadgets.com/) | Neuroscience tools
 [Vidrio Technologies](https://vidriotechnologies.com/) |
+[Sanworks](https://sanworks.io/index.php) | Neuroscience tools
+[Inscopix](https://www.inscopix.com/) | Neuroscience tools
 
 
 # Blogs
