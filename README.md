@@ -12,6 +12,7 @@ Software| Description
 [ClearControl](https://github.com/ClearControl) |
 [CellProfiler](http://cellprofiler.org/)	| [Github](https://github.com/CellProfiler/CellProfiler)
 [Care](http://csbdeep.bioimagecomputing.com/)	|
+[Biobeam](https://maweigert.github.io/biobeam/) |
 [EmbryoMiner](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006128)| Large-scale cell tracking data of developing embryos
 [MotionTracking](http://motiontracking.mpi-cbg.de/)	|
 [ACME](https://github.com/krm15/ACME/) |
@@ -22,6 +23,7 @@ Software| Description
 [MINS](https://sites.google.com/site/bioimagetools/mins) | Automated segmentation and quantitation of cell nuclei based on Matlab
 [EDGE4](https://sites.google.com/site/edge4dsupplement/home) | 4D analyses of epithelial folding during Drosophila gastrulation
 [Micro-Manager](https://micro-manager.org/) |
+[OpenSegSpim](http://opensegspim.weebly.com/) |
 
 # Vendors
 
@@ -143,6 +145,7 @@ Microscopes| Description
 [OpenSPIM](http://openspim.org/Welcome_to_the_OpenSPIM_Wiki) |
 [Scientifica](http://www.scientifica.uk.com/) |
 [MiniScope](http://miniscope.org/) |
+[Foldscope](https://www.foldscope.com/) |
 
 
 Lab supplies| Description
