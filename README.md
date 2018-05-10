@@ -67,24 +67,26 @@ Electronics| Description
 
 Test & Measurement| Description
 ---- | ----
-[Keysight](https://www.apple.com)				| test B
-[Tektronics](https://www.apple.com)				| test B
-[Fluke](https://www.apple.com)				| test B
-[Keithley](https://www.apple.com)				| test B
-[SRS](https://www.apple.com)				| test B
+[Keysight](https://www.keysight.com/us/en/home.html)				| Oscilloscopes, power supplies, etc
+[Tektronics](https://www.tek.com/)				| Oscilloscopes, power supplies, etc
+[Rigol](https://www.rigolna.com/) | Oscilloscopes, power supplies, etc
+[Rohde&Schwarz](https://www.rohde-schwarz.com) | Oscilloscopes, power supplies, etc
+[Fluke](http://www.fluke.com/)				| Multimeter
+[Keithley](https://www.tek.com/keithley)				| Precision multimeter
+[SRS](http://www.thinksrs.com/)				| 
 
 Objectives| Description
 ---- | ----
-[Olympus](https://www.apple.com)				| test B
-[Zeiss](https://www.apple.com)				| test B
-[Leica](https://www.apple.com)				| test B
-[SpecialOptics](https://www.apple.com)				| test B
+[Olympus](https://www.olympus-lifescience.com)				|
+[Zeiss](https://www.zeiss.com/microscopy)				|
+[Leica](https://www.leica-microsystems.com)				|
+[SpecialOptics](http://specialoptics.com/)				| Custom objectives
 
 Cameras| Description
 ---- | ----
-[Hamamatsu](https://www.apple.com)				| test B
-[Andor](https://www.apple.com)				| test B
-[PointGrey](https://www.apple.com)				| test B
+[Hamamatsu](http://www.hamamatsu.com/)				| Scientific cameras
+[Andor](http://www.andor.com/)				| Scientific cameras
+[PointGrey](https://www.ptgrey.com/)				| General purpose cameras
 
 
 
