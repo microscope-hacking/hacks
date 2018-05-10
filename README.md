@@ -114,6 +114,11 @@ Cameras| Description
 Microscopes| Description
 ---- | ----
 [Scientifica](http://www.scientifica.uk.com/) |
+
+
+To be classified| Description
+---- | ----
+[Spike Gadgets](http://www.spikegadgets.com/) | Neuroscience tools
 [Vidrio Technologies](https://vidriotechnologies.com/) |
 
 
@@ -121,5 +126,6 @@ Microscopes| Description
 
 Blogs| Description
 ---- | ----
-[Labrigger](http://labrigger.com/blog/) 			| test A
+[Labrigger](http://labrigger.com/blog/) 			|
+[Alessandro Esposito](https://alesposito75.wordpress.com/my-blog/) |
 
