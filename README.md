@@ -23,6 +23,7 @@ Optics & optomechanics| Description
 ---- | ----
 [Thorlabs](https://www.thorlabs.com/)				|
 [Newport](http://www.newport.com/)				|
+[Edmund](https://www.edmundoptics.com/) |
 [Eksma](http://eksmaoptics.com/) |
 [Meadowlark](https://www.meadowlark.com/)				| High-end polatizers
 [Semrock](https://www.semrock.com/)				| High-end filters
@@ -31,6 +32,7 @@ Electro-optics| Description
 ---- | ----
 [Conoptics](https://www.conoptics.com/)				|
 [QIoptik](http://www.qioptiq.com/)				|
+[4DD](http://www.forthdd.com/) | SLM
 
 Data acquisition| Description
 ---- | ----
@@ -49,6 +51,7 @@ Galvanometric mirrors| Description
 Motorized stages| Description
 ---- | ----
 [Physik Instrumente](https://www.physikinstrumente.com)				|
+[Prior](https://www.prior.com) |
 
 Mechanical parts| Description
 ---- | ----
