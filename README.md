@@ -5,11 +5,14 @@ Software| Description
 ---- | ----
 [ImageJ](https://github.com/imagej/imagej)| 
 [Fiji](https://github.com/fiji)	|
+[BigDataViewer](https://imagej.net/BigDataViewer) |
+[MaMuT](https://imagej.net/MaMuT) | A Fiji plugin for the annotation of massive, multi-view data
+[TrackMate](https://imagej.net/TrackMate) |
 [ClearVolume](https://github.com/ClearVolume)	|
 [ClearControl](https://github.com/ClearControl) |
 [CellProfiler](http://cellprofiler.org/)	| [Github](https://github.com/CellProfiler/CellProfiler)
 [Care](http://csbdeep.bioimagecomputing.com/)	|
-[EmbryoMiner](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006128)|
+[EmbryoMiner](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006128)| Large-scale cell tracking data of developing embryos
 [MotionTracking](http://motiontracking.mpi-cbg.de/)	|
 [ACME](https://github.com/krm15/ACME/) |
 [TANGO](http://biophysique.mnhn.fr/tango) |  high-throughput 3D image analysis for studying nuclear organization
@@ -18,6 +21,7 @@ Software| Description
 [NanoJ-SQUIRREL](https://bitbucket.org/rhenriqueslab/nanoj-squirrel/wiki/Home) |
 [MINS](https://sites.google.com/site/bioimagetools/mins) | Automated segmentation and quantitation of cell nuclei based on Matlab
 [EDGE4](https://sites.google.com/site/edge4dsupplement/home) | 4D analyses of epithelial folding during Drosophila gastrulation
+[Micro-Manager](https://micro-manager.org/) |
 
 # Vendors
 
@@ -120,6 +124,7 @@ Cameras| Description
 
 Microscopes| Description
 ---- | ----
+[OpenSPIM](http://openspim.org/Welcome_to_the_OpenSPIM_Wiki) |
 [Scientifica](http://www.scientifica.uk.com/) |
 
 
