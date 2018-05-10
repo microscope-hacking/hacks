@@ -20,14 +20,18 @@ Optics & optomechanics| Description
 [Newport](http://www.newport.com/)				|
 [Edmund](https://www.edmundoptics.com/) |
 [Eksma](http://eksmaoptics.com/) |
-[Meadowlark](https://www.meadowlark.com/)				| High-end polarizers
-[Semrock](https://www.semrock.com/)				| High-end filters
+[Meadowlark](https://www.meadowlark.com/)				| Highend polarizers
+[Semrock](https://www.semrock.com/)				| Highend filters
+[CVI](https://www.cvilaseroptics.com/) |
 [OZ Optics](https://www.ozoptics.com/) | Fiber optics
+[Vere](http://www.vere.com/) | Optical tables
+[Orlin](http://www.opto-mechanics.co.uk/) |
+[Siskiyou](http://www.siskiyou.com/) |
 
 Electro-optics| Description
 ---- | ----
-[Conoptics](https://www.conoptics.com/)				|
-[QIoptik](http://www.qioptiq.com/)				|
+[Conoptics](https://www.conoptics.com/)				| Light modulators
+[QIoptik](http://www.qioptiq.com/)				| Light modulators
 [4DD](http://www.forthdd.com/) | SLM
 
 Data acquisition| Description
@@ -70,6 +74,8 @@ Mechanical parts| Description
 ---- | ----
 [McMaster](https://www.mcmaster.com/)				| Large catalog
 [Misumi](https://us.misumi-ec.com/)				| Customizable parts
+[8020](https://8020.net/) |
+[Makerbeam](https://www.makerbeam.com/) | Lots of beams
 
 Electronics| Description
 ---- | ----
@@ -103,7 +109,12 @@ Cameras| Description
 [Hamamatsu](http://www.hamamatsu.com/)				| Scientific cameras
 [Andor](http://www.andor.com/)				| Scientific cameras
 [PointGrey](https://www.ptgrey.com/)				| General purpose cameras
+[Allied Vision](https://www.alliedvision.com) |
 
+Microscopes| Description
+---- | ----
+[Scientifica](http://www.scientifica.uk.com/) |
+[Vidrio Technologies](https://vidriotechnologies.com/) |
 
 
 # Blogs
