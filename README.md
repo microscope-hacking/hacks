@@ -21,48 +21,49 @@ Software| Description
 
 Optics & optomechanics| Description
 ---- | ----
-[Thorlabs](https://www.apple.com)				| test B
-[Newport](https://www.apple.com)				| test B
-[Meadowlark](https://www.meadowlark.com/)				| test B
-[Semrock](https://www.apple.com)				| test B
+[Thorlabs](https://www.thorlabs.com/)				|
+[Newport](http://www.newport.com/)				|
+[Eksma](http://eksmaoptics.com/) |
+[Meadowlark](https://www.meadowlark.com/)				| High-end polatizers
+[Semrock](https://www.semrock.com/)				| High-end filters
 
 Electro-optics| Description
 ---- | ----
-[Conoptics](https://www.apple.com)				| test B
-[QIoptik](https://www.apple.com)				| test B
+[Conoptics](https://www.conoptics.com/)				|
+[QIoptik](http://www.qioptiq.com/)				|
 
 Data acquisition| Description
 ---- | ----
-[National Instruments](https://www.google.com) 			| test A
+[National Instruments](http://www.ni.com/) 			|
 
 Lasers| Description
 ---- | ----
-[Coherent](https://www.apple.com)				| test B
-[SpectraPhysics](https://www.apple.com)				| test B
-[Coherent](https://www.apple.com)				| test B
+[Coherent](https://www.coherent.com/)				|
+[SpectraPhysics](https://www.spectra-physics.com/)				|
+[MSquared](http://www.m2lasers.com/)				|
 
 Galvanometric mirrors| Description
 ---- | ----
-[Cambridge Technology](https://www.apple.com)				| test B
+[Cambridge Technology](http://www.cambridgetechnology.com/)				|
 
 Motorized stages| Description
 ---- | ----
-[Physik Instrumente](https://www.apple.com)				| test B
+[Physik Instrumente](https://www.physikinstrumente.com)				|
 
 Mechanical parts| Description
 ---- | ----
-[McMaster](https://www.apple.com)				| test B
-[Misumi](https://www.apple.com)				| test B
+[McMaster](https://www.mcmaster.com/)				| Large catalog
+[Misumi](https://us.misumi-ec.com/)				| Customizable parts
 
 Electronics| Description
 ---- | ----
-[Digikey](https://www.apple.com)				| test B
-[Mouser](https://www.apple.com)				| test B
-[RS](https://www.apple.com)				| test B
-[Conrad](https://www.apple.com)				| test B
-[Minicircuits](https://www.apple.com)				| test B
-[OSHpark](https://www.apple.com)				| test B
-[KiCad](https://www.apple.com)				| test B
+[Digikey](https://www.digikey.com/)				| Large catalog
+[Mouser](https://www.mouser.com)				|
+[RS](http://www.rs-components.com/index.html)				|
+[Conrad](https://www.conrad.com/)				|
+[Minicircuits](http://www.minicircuits.com/)				| RF and Microwave
+[OSHpark](https://oshpark.com/)				| PCB manufacture
+[KiCad](http://kicad-pcb.org/)				| Open source electronics CAD
 
 Test & Measurement| Description
 ---- | ----
