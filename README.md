@@ -11,6 +11,11 @@ Software| Description
 [Care](http://csbdeep.bioimagecomputing.com/)				|
 [EmbryoMiner](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006128)				|
 [MotionTracking](http://motiontracking.mpi-cbg.de/)				|
+[ACME](https://github.com/krm15/ACME/) |
+[TANGO](http://biophysique.mnhn.fr/tango) |  high-throughput 3D image analysis for studying nuclear organization
+[RACE](https://bitbucket.org/jstegmaier/race/downloads/) | Real-time three-dimensional cell segmentation in large-scale microscopy data of developing embryos.
+[CellSegm](https://github.com/ehodneland/cellsegm) |
+[NanoJ-SQUIRREL](https://bitbucket.org/rhenriqueslab/nanoj-squirrel/wiki/Home) |
 
 # Vendors
 
