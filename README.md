@@ -1,6 +1,8 @@
-Hardware| Description
+#Hardware
+
+FPGA| Description
 ---- | ----
-[A](https://www.google.com) 			| test A
+[Terasic](http://www.terasic.com.tw/) 			| Dev boards
 
 # Software
 
