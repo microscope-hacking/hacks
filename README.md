@@ -1,4 +1,4 @@
-#Hardware
+# Hardware
 
 FPGA| Description
 ---- | ----
@@ -8,14 +8,14 @@ FPGA| Description
 
 Software| Description
 ---- | ----
-[ImageJ](https://www.apple.com)				| test B
-[Fiji](https://www.apple.com)				| test B
-[ClearVolume](https://www.apple.com)				| test B
-[ClearControl](https://www.google.com) 			| test A
-[CellProfiler](https://www.apple.com)				| test B
-[Care](https://www.apple.com)				| test B
-[EmbryoMiner](https://www.apple.com)				| test B
-[MotionTracker](https://www.apple.com)				| test B
+[ImageJ](https://github.com/imagej/imagej)				| 
+[Fiji](https://github.com/fiji)				|
+[ClearVolume](https://github.com/ClearVolume)				|
+[ClearControl](https://github.com/ClearControl) 			|
+[CellProfiler](http://cellprofiler.org/)				| [Github](https://github.com/CellProfiler/CellProfiler)
+[Care](http://csbdeep.bioimagecomputing.com/)				|
+[EmbryoMiner](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006128)				|
+[MotionTracking](http://motiontracking.mpi-cbg.de/)				|
 
 # Vendors
 
