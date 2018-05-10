@@ -35,6 +35,9 @@ Optics & optomechanics| Description
 [Semrock](https://www.semrock.com/)	| Highend filters
 [CVI](https://www.cvilaseroptics.com/) |
 [OZ Optics](https://www.ozoptics.com/) | Fiber optics
+[Layertec](https://www.layertec.de/en/) | 
+[Advanced Thin Films](http://www.advancedthinfilms.com/) |
+[Altechna](http://www.altechna.com/) |
 [Vere](http://www.vere.com/) | Optical tables
 [Orlin](http://www.opto-mechanics.co.uk/) |
 [Siskiyou](http://www.siskiyou.com/) |
@@ -44,6 +47,9 @@ Electro-optics| Description
 [Conoptics](https://www.conoptics.com/)	| Light modulators
 [QIoptik](http://www.qioptiq.com/) | Light modulators
 [4DD](http://www.forthdd.com/) | SLM
+[Imagine Optic](https://www.imagine-optic.com/) | Wavefront sensors and deformable mirrors
+[Optocraft](https://www.optocraft.de) | Wavefront sensors
+[EOT](https://www.eotech.com) |
 
 Acquisition cards| Description
 ---- | ----
@@ -70,6 +76,7 @@ Lasers| Description
 [Montfort](https://www.montfortlaser.com/) |
 [Spark](https://spark-lasers.com/) |
 [Chromacity](http://www.chromacitylasers.com/) |
+[APE](https://www.ape-berlin.de) |
 
 
 Galvanometric mirrors| Description
@@ -82,6 +89,10 @@ Motorized stages| Description
 ---- | ----
 [Physik Instrumente](https://www.physikinstrumente.com)	|
 [Prior](https://www.prior.com) |
+[Aerotech](https://www.aerotech.com/) |
+[Dover Motion](https://dovermotion.com/) |
+[ASI](http://www.asiimaging.com/) |
+[MCL](http://www.madcitylabs.com/) |
 
 Mechanical parts| Description
 ---- | ----
@@ -95,7 +106,8 @@ Electronics| Description
 [Digikey](https://www.digikey.com/)	| Large catalog
 [Mouser](https://www.mouser.com)	|
 [RS](http://www.rs-components.com/index.html)	|
-[Conrad](https://www.conrad.com/)				|
+[Conrad](https://www.conrad.com/)	|
+[Allied Electronics](https://www.alliedelec.com/) |
 [Minicircuits](http://www.minicircuits.com/)	| RF and Microwave
 [OSHpark](https://oshpark.com/)	| PCB manufacture
 [KiCad](http://kicad-pcb.org/)	| Open source electronics CAD
@@ -109,6 +121,7 @@ Test & Measurement| Description
 [Fluke](http://www.fluke.com/)	| Multimeter
 [Keithley](https://www.tek.com/keithley)	| Precision multimeter
 [SRS](http://www.thinksrs.com/)	| 
+[Advantest](https://www.advantest.com/) |
 
 Objectives| Description
 ---- | ----
@@ -123,6 +136,7 @@ Cameras| Description
 [Andor](http://www.andor.com/)| Scientific cameras
 [PointGrey](https://www.ptgrey.com/)| General purpose cameras
 [Allied Vision](https://www.alliedvision.com) |
+[Dage-MTI](http://dagemti.com/) |
 
 Microscopes| Description
 ---- | ----
