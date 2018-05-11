@@ -124,6 +124,7 @@ Test & Measurement| Description
 [Keithley](https://www.tek.com/keithley)	| Precision multimeter
 [SRS](http://www.thinksrs.com/)	| 
 [Advantest](https://www.advantest.com/) |
+[Red Pitaya](https://www.redpitaya.com) |
 
 Objectives| Description
 ---- | ----
