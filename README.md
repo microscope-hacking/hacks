@@ -173,5 +173,3 @@ To be classified| Description
 Blogs| Description
 ---- | ----
 [Blogs](https://github.com/microscope-hacking/resources/blob/master/blogs.md) |
-[Labrigger](http://labrigger.com/blog/) 			|
-[Alessandro Esposito](https://alesposito75.wordpress.com/my-blog/) |
