@@ -143,10 +143,15 @@ Cameras| Description
 
 Microscopes| Description
 ---- | ----
-[OpenSPIM](http://openspim.org/Welcome_to_the_OpenSPIM_Wiki) |
 [Scientifica](http://www.scientifica.uk.com/) |
+
+Open source lab| Description
+---- | ----
+[OpenSPIM](http://openspim.org/Welcome_to_the_OpenSPIM_Wiki) |
 [MiniScope](http://miniscope.org/) |
 [Foldscope](https://www.foldscope.com/) |
+[Open-Labware](https://open-labware.net/) |
+[GaudiLabs](http://www.gaudi.ch/) |
 
 
 Fluorescent labels| Description
