@@ -3,7 +3,7 @@
 
 Software| Description
 ---- | ----
-[ImageJ](https://github.com/imagej/imagej)| 
+[ImageJ](https://github.com/imagej/imagej)|
 [Fiji](https://github.com/fiji)	|
 [BigDataViewer](https://imagej.net/BigDataViewer) |
 [MaMuT](https://imagej.net/MaMuT) | A Fiji plugin for the annotation of massive, multi-view data
@@ -37,7 +37,7 @@ Optics & optomechanics| Description
 [Semrock](https://www.semrock.com/)	| Highend filters
 [CVI](https://www.cvilaseroptics.com/) |
 [OZ Optics](https://www.ozoptics.com/) | Fiber optics
-[Layertec](https://www.layertec.de/en/) | 
+[Layertec](https://www.layertec.de/en/) |
 [Advanced Thin Films](http://www.advancedthinfilms.com/) |
 [Altechna](http://www.altechna.com/) |
 [Vere](http://www.vere.com/) | Optical tables
@@ -80,7 +80,6 @@ Lasers| Description
 [Chromacity](http://www.chromacitylasers.com/) |
 [APE](https://www.ape-berlin.de) |
 
-
 Galvanometric mirrors| Description
 ---- | ----
 [Cambridge Technology](http://www.cambridgetechnology.com/)	|
@@ -122,7 +121,7 @@ Test & Measurement| Description
 [Rohde&Schwarz](https://www.rohde-schwarz.com) | Oscilloscopes, power supplies, etc
 [Fluke](http://www.fluke.com/)	| Multimeter
 [Keithley](https://www.tek.com/keithley)	| Precision multimeter
-[SRS](http://www.thinksrs.com/)	| 
+[SRS](http://www.thinksrs.com/)	|
 [Advantest](https://www.advantest.com/) |
 [Red Pitaya](https://www.redpitaya.com) |
 
@@ -131,6 +130,7 @@ Objectives| Description
 [Olympus](https://www.olympus-lifescience.com)	|
 [Zeiss](https://www.zeiss.com/microscopy)	|
 [Leica](https://www.leica-microsystems.com)	|
+[Nikon](https://www.nikoninstruments.com) |
 [SpecialOptics](http://specialoptics.com/)| Custom objectives
 
 Cameras| Description
@@ -148,18 +148,17 @@ Microscopes| Description
 Open source lab| Description
 ---- | ----
 [OpenSPIM](http://openspim.org/Welcome_to_the_OpenSPIM_Wiki) |
+[OpenSpinMicroscopy](https://sites.google.com/site/openspinmicroscopy/) |
 [MiniScope](http://miniscope.org/) |
 [Foldscope](https://www.foldscope.com/) |
 [Open-Labware](https://open-labware.net/) |
 [GaudiLabs](http://www.gaudi.ch/) |
-
 
 Fluorescent labels| Description
 ---- | ----
 [ThermoFisher](thermofisher.com) |
 [Gattaquant](http://www.gattaquant.com/) |
 [FPbase](https://www.fpbase.org/) | [Github](https://github.com/tlambert03/FPbase)
-
 
 To be classified| Description
 ---- | ----
@@ -173,6 +172,6 @@ To be classified| Description
 
 Blogs| Description
 ---- | ----
+[Blogs](https://github.com/microscope-hacking/resources/blob/master/blogs.md) |
 [Labrigger](http://labrigger.com/blog/) 			|
 [Alessandro Esposito](https://alesposito75.wordpress.com/my-blog/) |
-
