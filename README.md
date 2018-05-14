@@ -154,11 +154,7 @@ Open source lab| Description
 [Open-Labware](https://open-labware.net/) |
 [GaudiLabs](http://www.gaudi.ch/) |
 
-Fluorescent labels| Description
----- | ----
-[ThermoFisher](thermofisher.com) |
-[Gattaquant](http://www.gattaquant.com/) |
-[FPbase](https://www.fpbase.org/) | [Github](https://github.com/tlambert03/FPbase)
+
 
 To be classified| Description
 ---- | ----
@@ -166,10 +162,10 @@ To be classified| Description
 [Vidrio Technologies](https://vidriotechnologies.com/) |
 [Sanworks](https://sanworks.io/index.php) | Neuroscience tools
 [Inscopix](https://www.inscopix.com/) | Neuroscience tools
+[Neurolabware](http://neurolabware.com/)|
 
 
-# Blogs
-
-Blogs| Description
+Category| Description
 ---- | ----
+[Fluorescent labels](https://github.com/microscope-hacking/resources/blob/master/fluorescent.md))
 [Blogs](https://github.com/microscope-hacking/resources/blob/master/blogs.md) |
