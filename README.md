@@ -145,7 +145,7 @@ Microscopes| Description
 ---- | ----
 [Scientifica](http://www.scientifica.uk.com/) |
 
-Open source lab| Description
+Open source| Description
 ---- | ----
 [OpenSPIM](http://openspim.org/Welcome_to_the_OpenSPIM_Wiki) |
 [OpenSpinMicroscopy](https://sites.google.com/site/openspinmicroscopy/) |
@@ -154,7 +154,11 @@ Open source lab| Description
 [Open-Labware](https://open-labware.net/) |
 [GaudiLabs](http://www.gaudi.ch/) |
 
-
+Fluorescent labels| Description
+---- | ----
+[ThermoFisher](thermofisher.com) |
+[Gattaquant](http://www.gattaquant.com/) |
+[FPbase](https://www.fpbase.org/) | [Github](https://github.com/tlambert03/FPbase)
 
 To be classified| Description
 ---- | ----
@@ -165,7 +169,8 @@ To be classified| Description
 [Neurolabware](http://neurolabware.com/)|
 
 
-Category| Description
+Blogs| Description
 ---- | ----
-[Fluorescent labels](https://github.com/microscope-hacking/resources/blob/master/fluorescent.md)|
-[Blogs](https://github.com/microscope-hacking/resources/blob/master/blogs.md) |
+[Labrigger](http://labrigger.com/blog/) 			|
+[Alessandro Esposito](https://alesposito75.wordpress.com/my-blog/) |
+[ScanBox](https://scanbox.org/)|
