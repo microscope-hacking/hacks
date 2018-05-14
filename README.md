@@ -167,5 +167,5 @@ To be classified| Description
 
 Category| Description
 ---- | ----
-[Fluorescent labels](https://github.com/microscope-hacking/resources/blob/master/fluorescent.md))
+[Fluorescent labels](https://github.com/microscope-hacking/resources/blob/master/fluorescent.md)|
 [Blogs](https://github.com/microscope-hacking/resources/blob/master/blogs.md) |
