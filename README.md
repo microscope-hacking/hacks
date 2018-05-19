@@ -55,6 +55,7 @@ Electro-optics| Description
 [Imagine Optic](https://www.imagine-optic.com/)| Wavefront sensors and deformable mirrors
 [Optocraft](https://www.optocraft.de)| Wavefront sensors
 [EOT](https://www.eotech.com)|
+[BMC](http://www.bostonmicromachines.com/)|
 
 Acquisition cards| Description
 ---- | ----
@@ -83,11 +84,12 @@ Lasers| Description
 [Chromacity](http://www.chromacitylasers.com/)|
 [APE](https://www.ape-berlin.de)|
 
-Galvanometric mirrors| Description
+Scanning mirrors| Description
 ---- | ----
 [Cambridge Technology](http://www.cambridgetechnology.com/)|
 [ScannerMax](https://www.scannermax.com/)|
 [ScanLab](http://www.scanlab.de/en)|
+[EOPC](http://www.eopc.com/)|
 
 Motorized stages| Description
 ---- | ----
@@ -160,6 +162,7 @@ Open source| Description
 [Foldscope](https://www.foldscope.com/)|
 [Open-Labware](https://open-labware.net/)|
 [GaudiLabs](http://www.gaudi.ch/)|
+[NanoJ Fluidics](https://github.com/HenriquesLab/NanoJ-Fluidics/wiki)|
 
 Fluorescent labels| Description
 ---- | ----
