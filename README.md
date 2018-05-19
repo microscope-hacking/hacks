@@ -25,6 +25,7 @@ Software| Description
 [Micro-Manager](https://micro-manager.org/)|
 [OpenSegSpim](http://opensegspim.weebly.com/)|
 [Arivis](https://www.arivis.com/en/imaging-science/imaging-science)|
+[QuPath](https://qupath.github.io/)|Open source software for whole slide image analysis and digital pathology
 
 # Vendors
 
@@ -56,6 +57,7 @@ Electro-optics| Description
 [Optocraft](https://www.optocraft.de)| Wavefront sensors
 [EOT](https://www.eotech.com)|
 [BMC](http://www.bostonmicromachines.com/)|
+[Optotune](https://www.optotune.com/)| Tunable lenses
 
 Acquisition cards| Description
 ---- | ----
@@ -117,8 +119,9 @@ Electronics| Description
 [Conrad](https://www.conrad.com/)|
 [Allied Electronics](https://www.alliedelec.com/)|
 [Minicircuits](http://www.minicircuits.com/)| RF and Microwave
-[OSHpark](https://oshpark.com/)| PCB manufacture
+[OSHpark](https://oshpark.com/)| PCB manufacturer
 [KiCad](http://kicad-pcb.org/)| Open source electronics CAD
+[DirtyPCBs](http://dirtypcbs.com/)|  PCB manufacturer
 
 Test & Measurement| Description
 ---- | ----
