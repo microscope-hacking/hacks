@@ -26,6 +26,15 @@ Software| Description
 [OpenSegSpim](http://opensegspim.weebly.com/)|
 [Arivis](https://www.arivis.com/en/imaging-science/imaging-science)|
 [QuPath](https://qupath.github.io/)|Open source software for whole slide image analysis and digital pathology
+[Amira](https://www.fei.com/software/amira-for-life-sciences/)|
+[Mipar](http://www.mipar.us/)|
+[Imaris](http://www.bitplane.com/imaris)|
+[Ilastik](http://ilastik.org/)|
+[TrackEM2](http://www.ini.uzh.ch/~acardona/trakem2.html)|  ImageJ plugin for morphological data mining, 3D modeling and image stitching, registration, editing and annotation.
+[SyGlass](http://www.syglass.io/)|
+[Aivia7](https://www.drvtechnologies.com/)|
+[Vaa3D]|(http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/)| and Terafly plugin
+
 
 # Vendors
 
@@ -92,6 +101,7 @@ Scanning mirrors| Description
 [ScannerMax](https://www.scannermax.com/)|
 [ScanLab](http://www.scanlab.de/en)|
 [EOPC](http://www.eopc.com/)|
+[EquipmentSolutions](http://www.equipsolutions.com/) | Linear focus actuator
 
 Motorized stages| Description
 ---- | ----
@@ -150,12 +160,14 @@ Cameras| Description
 [PointGrey](https://www.ptgrey.com/)| General purpose cameras
 [Allied Vision](https://www.alliedvision.com)|
 [Dage-MTI](http://dagemti.com/)|
+[Photometrics](https://www.photometrics.com/)|
 
 Microscopes| Description
 ---- | ----
 [Scientifica](http://www.scientifica.uk.com/)|
 [Biovis](http://www.biovis.com/)|
 [Intelligent Imaging](https://www.intelligent-imaging.com/)|
+[Perkin-Elmer](http://www.perkinelmer.com/)|
 
 Open source| Description
 ---- | ----
@@ -166,12 +178,16 @@ Open source| Description
 [Open-Labware](https://open-labware.net/)|
 [GaudiLabs](http://www.gaudi.ch/)|
 [NanoJ Fluidics](https://github.com/HenriquesLab/NanoJ-Fluidics/wiki)|
+[MiCube](https://jhohlbein.com/micube/)| Open source fluorescent microscope
+[NIH 3D print exchange](https://3dprint.nih.gov/)|
+[Lab equipment](https://customlabinstitute.wordpress.com/)|
 
 Fluorescent labels| Description
 ---- | ----
 [ThermoFisher](thermofisher.com)|
-[Gattaquant](http://www.gattaquant.com/)|
+[Argolight](http://argolight.com/)|
 [FPbase](https://www.fpbase.org/)| [Github](https://github.com/tlambert03/FPbase)
+[]
 
 To be classified| Description
 ---- | ----
