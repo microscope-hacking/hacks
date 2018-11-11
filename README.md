@@ -56,6 +56,7 @@ Optics & optomechanics| Description
 [Siskiyou](http://www.siskiyou.com/)|
 [AVR](http://avr-optics.com/)|
 [Chroma](https://www.chroma.com/)|
+[OFH](http://www.opticsforhire.com/)| Custom optics
 
 Electro-optics| Description
 ---- | ----
@@ -94,6 +95,7 @@ Lasers| Description
 [Spark](https://spark-lasers.com/)|
 [Chromacity](http://www.chromacitylasers.com/)|
 [APE](https://www.ape-berlin.de)|
+[alcor](https://www.rpmclasers.com/product/alcor-ultra-compact-femtosecond-laser/)| 920 nm femtosecond laser
 
 Scanning mirrors| Description
 ---- | ----
@@ -129,6 +131,7 @@ Electronics| Description
 [Conrad](https://www.conrad.com/)|
 [Allied Electronics](https://www.alliedelec.com/)|
 [Minicircuits](http://www.minicircuits.com/)| RF and Microwave
+[Pulse Research Lab](https://www.pulseresearchlab.com/)| RF
 [OSHpark](https://oshpark.com/)| PCB manufacturer
 [KiCad](http://kicad-pcb.org/)| Open source electronics CAD
 [DirtyPCBs](http://dirtypcbs.com/)|  PCB manufacturer
@@ -181,6 +184,7 @@ Open source| Description
 [MiCube](https://jhohlbein.com/micube/)| Open source fluorescent microscope
 [NIH 3D print exchange](https://3dprint.nih.gov/)|
 [Lab equipment](https://customlabinstitute.wordpress.com/)|
+[TIRF autofocus](http://kmdouglass.github.io/stories/notes/pgFocus.html)|
 
 Fluorescent labels| Description
 ---- | ----
@@ -199,6 +203,7 @@ To be classified| Description
 [A-M Systems](https://www.a-msystems.com/)| Neuroscience instruments
 [MBF Bioscience](http://www.mbfbioscience.com/)|
 [TDT](http://www.tdt.com/)|
+[PicoQuant](https://www.picoquant.com/)|
 
 
 Blogs| Description
