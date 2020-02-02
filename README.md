@@ -135,6 +135,7 @@ Electronics| Description
 [OSHpark](https://oshpark.com/)| PCB manufacturer
 [KiCad](http://kicad-pcb.org/)| Open source electronics CAD
 [DirtyPCBs](http://dirtypcbs.com/)|  PCB manufacturer
+[PhillipsScientific](http://www.phillipsscientific.com)| Scientific amps
 
 Test & Measurement| Description
 ---- | ----
@@ -185,6 +186,7 @@ Open source| Description
 [NIH 3D print exchange](https://3dprint.nih.gov/)|
 [Lab equipment](https://customlabinstitute.wordpress.com/)|
 [TIRF autofocus](http://kmdouglass.github.io/stories/notes/pgFocus.html)|
+[Open source bioinstrumentation](https://github.com/pachterlab/poseidon)|
 
 Fluorescent labels| Description
 ---- | ----
